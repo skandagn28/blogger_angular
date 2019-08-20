@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css?family=Oswald&display=swap");
+
+.fontStyle {
+  font-family: "Oswald", sans-serif;
+}
+
+.navbar {
+  margin-bottom: 8px !important;
+  border-radius: 0px !important;
+  background-color: #49b970 !important;
+  color: white !important;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: white !important;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-nav > .active > a:hover {
+  color: #555 !important;
+}
